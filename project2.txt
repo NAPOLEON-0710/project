@@ -1,0 +1,3 @@
+Hello, I am Student B.
+ I am learning GitHub collaboration.
+ I have added my project file. 
